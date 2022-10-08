@@ -1,0 +1,29 @@
+/* .center {
+margin: auto;
+width: 60%;
+padding: 10px;
+} */
+button{
+  padding: 10px;
+  margin:80px;
+  color: #5ba6cf;
+  background-color: #a11b34;
+}
+.buttons{
+  text-align: center;
+
+}
+h2{
+  background-color: #6fd970;
+  text-align:center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+html{
+  background-color: #0a0a0a;
+}
+body{
+  background-color: #5b9fde;
+  padding:10px;
+  margin:100px;
+}
